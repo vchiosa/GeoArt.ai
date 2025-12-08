@@ -1,0 +1,1067 @@
+[
+  {
+    "uuid": "71477cce-5357-492c-b39f-a9455ca99d6c",
+    "name": "young guy on gean",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89228/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "0c5f3cd1-2663-432e-8702-8c47edf27a61",
+        "name": "T-shirt",
+        "size": {
+          "width": 839,
+          "height": 981
+        },
+        "position": {
+          "top": 411,
+          "left": 311
+        }
+      },
+      {
+        "uuid": "4a2709b9-646b-4055-bba6-3210d84657e5",
+        "name": "Background dm:ai:background",
+        "size": {
+          "width": 1500,
+          "height": 1500
+        },
+        "position": {
+          "top": 0,
+          "left": 0
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89228/thumbnails/3b0b981d64b9f7fd2202f6001507e986_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89228/thumbnails/e5a12f9a4a978943b31f1a02b7bd0616_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89228/thumbnails/cfaf60426a8da8562b0d158a42118d7d_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "d9713795-1704-489a-bbbe-9ec59005227d",
+    "name": "a lady putting hand in her black jean",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89229/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "724ec818-ded0-4529-9d97-a205656dbf9e",
+        "name": "T-shirt",
+        "size": {
+          "width": 398,
+          "height": 377
+        },
+        "position": {
+          "top": 106,
+          "left": 369
+        }
+      },
+      {
+        "uuid": "3d204ea2-de2c-4012-b97f-c086482391c1",
+        "name": "Background dm:ai:background",
+        "size": {
+          "width": 1500,
+          "height": 1000
+        },
+        "position": {
+          "top": 0,
+          "left": 0
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89229/thumbnails/612903fe2f024e883f60d53375002e4f_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89229/thumbnails/ddbbdefc2438ac34fd3d090253a256bb_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89229/thumbnails/31fbf076cca8254e68abe909c2272abf_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "10cc146c-022b-4b81-8c5d-181888ff5669",
+    "name": "a man putting on a t shirt and a hat",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89230/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "ca2b7c29-ae2f-48bf-b05c-aa9b6bed1195",
+        "name": "T-shirt",
+        "size": {
+          "width": 399,
+          "height": 488
+        },
+        "position": {
+          "top": 491,
+          "left": 470
+        }
+      },
+      {
+        "uuid": "5b9efe0b-39e7-4a06-90b9-04a76b664566",
+        "name": "Background dm:ai:background",
+        "size": {
+          "width": 1500,
+          "height": 1500
+        },
+        "position": {
+          "top": 0,
+          "left": 0
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89230/thumbnails/f062e7e1c25a992b2c735461c7b1183a_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89230/thumbnails/9310034d225b5fe8808f1fcd3b304936_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89230/thumbnails/5f6d30a6c3b7a1369df31c3779fd8654_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "765ff7db-ca41-418c-9be3-a8d386ae24a3",
+    "name": "hoodie in a park close up",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89231/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "e100f8e3-d5cc-4c60-b21e-094bcee693f3",
+        "name": "Hoodie",
+        "size": {
+          "width": 1500,
+          "height": 1517
+        },
+        "position": {
+          "top": -16,
+          "left": 148
+        }
+      },
+      {
+        "uuid": "23146561-af6e-4c36-a621-da39dacdf01b",
+        "name": "Background dm:ai:background",
+        "size": {
+          "width": 1500,
+          "height": 1125
+        },
+        "position": {
+          "top": 0,
+          "left": 0
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89231/thumbnails/8d659fed0e6a35f0b3d49389bdb7db75_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89231/thumbnails/e008484512ea53bbffd8043bfc60b021_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89231/thumbnails/e74d94781e31d7a0369fadf1a4385213_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "b7c46fe9-35c0-4d53-ad40-e2ca2b1cd26a",
+    "name": "A man in nature wearing a hoodie",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89232/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "b026b83c-eebb-42aa-9cfe-d0a980aa9cac",
+        "name": "Hoodie",
+        "size": {
+          "width": 741,
+          "height": 737
+        },
+        "position": {
+          "top": -77,
+          "left": 142
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89232/thumbnails/99aed11a0e186de61abec94bda8ade71_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89232/thumbnails/8c8e36b1eb5cf86e2d2d83e1411f99e1_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89232/thumbnails/20d9fb2f11add0e2f307cbca62c6ff5f_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "095683f8-27bf-4c94-9dde-e9f3de7e8bae",
+    "name": "a man wearing a hoodie in woods",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89233/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "7d6dedbe-aa84-4b44-88a6-9f7e198cd023",
+        "name": "Hoodie",
+        "size": {
+          "width": 817,
+          "height": 999
+        },
+        "position": {
+          "top": 430,
+          "left": 130
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89233/thumbnails/0842eafc22564f66b1a843da7e9fef7c_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89233/thumbnails/fded4d351681e0634b875dfc4a2c25ae_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89233/thumbnails/91a8fd0a6df6d3000f38458e5ccdc845_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "5d4cc4dd-00c5-4e39-bb19-908d2d0b0a4d",
+    "name": "Wall art Frame",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89234/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "5ff3dfba-ab98-4f8e-a53d-0bd28cabc551",
+        "name": "Artwork",
+        "size": {
+          "width": 1276,
+          "height": 1276
+        },
+        "position": {
+          "top": 54,
+          "left": 526
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89234/thumbnails/26bf18e4e84e7046b4860c46ec5a6bbf_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89234/thumbnails/2ee2dc263fa094b2e49c49cd3adbe11c_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89234/thumbnails/e13f692112ed303c7979b7a672a16f51_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "1ed402a6-5631-433a-949c-97e96cadc69d",
+    "name": "Portrait beside mini book shelve",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89235/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "daea4c79-903c-4b55-b080-ed29ce6d20d8",
+        "name": "Artwork",
+        "size": {
+          "width": 2108,
+          "height": 2118
+        },
+        "position": {
+          "top": 177,
+          "left": 437
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89235/thumbnails/8c5730ae314fe74e5adac1ca1ad21716_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89235/thumbnails/06c298274a6d7cb0da5973dd14c08efb_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89235/thumbnails/2071383663bb7006d4f8814806d2d633_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "864ccbe1-5acd-41cc-86e2-2d16da5c85c5",
+    "name": "Boho Living Room Frame",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89236/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "65a36cab-9bb0-4910-a2f5-6dda8619fa41",
+        "name": "Artwork",
+        "size": {
+          "width": 304,
+          "height": 355
+        },
+        "position": {
+          "top": 139,
+          "left": 445
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89236/thumbnails/b7789d590e2493143b3e9dd1caf3a8e5_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89236/thumbnails/a4752d6a1e86de3e7a37c2880ee08f56_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89236/thumbnails/5229f5d776b5a07c8dcb5f32e790d209_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "a6ca1605-e74a-4296-9e26-f0cf95654c1e",
+    "name": "a quiet day at home",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89237/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "9ebe3099-a128-467f-901a-34cb8ff95479",
+        "name": "Artwork",
+        "size": {
+          "width": 788,
+          "height": 621
+        },
+        "position": {
+          "top": 626,
+          "left": 487
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89237/thumbnails/2ae8f5bf5d25d5bacbb66472a8c9ca95_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89237/thumbnails/471c99a5c11b4619a83515116930f12e_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89237/thumbnails/f6b44d843adb13532370a3f8f90ec85e_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "740b623f-89b7-40e0-b61c-fbe6dce352d6",
+    "name": "late night coffee",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89238/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "56cc7a0d-a205-441e-ba1f-f7e355c20a13",
+        "name": "Artwork",
+        "size": {
+          "width": 555,
+          "height": 524
+        },
+        "position": {
+          "top": 533,
+          "left": 429
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89238/thumbnails/12318b37175718bd859884aaefdf8515_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89238/thumbnails/19042114af02e2ce690a2d9b198a1857_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89238/thumbnails/fbd67b35a17360cfb497c7f664ad8582_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "c24435d4-0a35-4a73-9b46-9fd9dd27cc36",
+    "name": "sunday morning coffee",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89240/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "0d6de8ca-aca0-4f4e-84db-3b1dec400d29",
+        "name": "Artwork",
+        "size": {
+          "width": 687,
+          "height": 622
+        },
+        "position": {
+          "top": 312,
+          "left": 455
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89240/thumbnails/155a3534feb60f192676325c5060625a_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89240/thumbnails/5d8f55c2e83ee12c83abddc9f50dab0c_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89240/thumbnails/be601589259344410078ce56add43d90_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "d582b9d5-7bf3-40fc-b62c-5ac9e5b4060c",
+    "name": "young lady in a floral living room",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89241/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "8975fea0-9c60-4798-b642-c34916e97e1c",
+        "name": "Sweatshirt",
+        "size": {
+          "width": 595,
+          "height": 512
+        },
+        "position": {
+          "top": 297,
+          "left": 431
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89241/thumbnails/2507be747d8007bc0036da4415255add_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89241/thumbnails/4c695f47d68153bc310047937ca414f3_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89241/thumbnails/c8ac7832407c337f2af1f1f15a2d88a4_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "73ced206-7d6c-4d2d-9cb8-33fa647cbdc3",
+    "name": "man striking a pose with a dog",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89242/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "825cafb9-f236-402e-ae22-d6120d18da17",
+        "name": "Sweatshirt",
+        "size": {
+          "width": 1170,
+          "height": 1186
+        },
+        "position": {
+          "top": 195,
+          "left": 341
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89242/thumbnails/535c47c44e77f4dc83d3947770ab958a_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89242/thumbnails/27feeb734b191fdcdcefacf008a545ba_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89242/thumbnails/d265762d6367b75adaeb8d3e97b9bfba_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "61b97bc7-f83b-49b5-aa87-4d1ad0c6b812",
+    "name": "woman beside a flower pot",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89243/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "2595a405-1da0-46d6-92a3-ee849ad1cef9",
+        "name": "Sweatshirt",
+        "size": {
+          "width": 841,
+          "height": 873
+        },
+        "position": {
+          "top": 526,
+          "left": 356
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89243/thumbnails/defb74f0d1ab7f97040a298fe816ad31_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89243/thumbnails/4a139bb325a2c29216c45ba4b1425e24_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89243/thumbnails/55aee5b24b7feb1be4cf0e28182f8b76_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "9d1b6c58-0f71-4c4e-881e-91eccf205d07",
+    "name": "Square Pillow on white chair",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89244/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "a3e9be5e-b82f-49b8-b783-437b8cdbd902",
+        "name": "Pillow",
+        "size": {
+          "width": 854,
+          "height": 747
+        },
+        "position": {
+          "top": 191,
+          "left": 426
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89244/thumbnails/e320062421426eb7f512c08f1bd90f16_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89244/thumbnails/8cac749b07ae6a30dd1ea5cb20dcdd29_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89244/thumbnails/0d179b47cae8a2e3d47b7fce2c5307d4_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "ec5f189b-5d78-40ea-a7cf-011fe1e1d13b",
+    "name": "Square Pillow in living room",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89245/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "206e1c02-8c72-443b-8ed9-349b4d9d9dab",
+        "name": "Pillow",
+        "size": {
+          "width": 1000,
+          "height": 870
+        },
+        "position": {
+          "top": 307,
+          "left": 332
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89245/thumbnails/0d8e4c9418bfa303aa2859d51e2aa4be_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89245/thumbnails/ec1df64376964f922b1c71813266ddf3_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89245/thumbnails/739b223c0c20e23670bc0589c399593e_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "a1fcf751-231e-4109-a8ea-135ca8847d4b",
+    "name": "Pillow on a sofa",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89246/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "3d5d158d-ce25-42c2-bbf6-b7661610ebe7",
+        "name": "Pillow",
+        "size": {
+          "width": 666,
+          "height": 586
+        },
+        "position": {
+          "top": 283,
+          "left": 600
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89246/thumbnails/ff9ed1f1d194f0665a9a061a4e220694_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89246/thumbnails/7ac46613f53ada22f1c2ce784b543c77_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89246/thumbnails/0af3166e6a6860ce03977e6a6cf4b372_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "9db3ce12-3dc2-4213-948d-b3a085fded2d",
+    "name": "stylish lady with a tote bag",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89247/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "8b595fc6-b02d-42b9-886e-6b33c642d81e",
+        "name": "Tote-bag",
+        "size": {
+          "width": 821,
+          "height": 1236
+        },
+        "position": {
+          "top": -45,
+          "left": 198
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89247/thumbnails/2294ea749c51dd0194918903418939df_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89247/thumbnails/05c133191aa1dd707761efba8ffa854f_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89247/thumbnails/ea079f9e35dba62da8cdc8e89e484921_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "8894d499-5ad4-40b2-ae9b-3244af171bb2",
+    "name": "young lady in a studio with a tote bag",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89248/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "dadda571-ce2c-402d-86cf-a8333eb297ac",
+        "name": "Tote-bag",
+        "size": {
+          "width": 1878,
+          "height": 2747
+        },
+        "position": {
+          "top": 271,
+          "left": 510
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89248/thumbnails/9b68194bbd01832da390753021dfb942_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89248/thumbnails/e1d50a744d7821d2b6eac1bf25327f3a_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89248/thumbnails/6fe7c55fc5b23da9c0a8a29530632c8b_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "425083bb-64bf-49b5-a440-ddab02d84a77",
+    "name": "tote bag beisde a wooden stool",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89249/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "a308f1bf-b732-4df8-b03e-d75b27e46a2a",
+        "name": "Tote-bag",
+        "size": {
+          "width": 887,
+          "height": 1500
+        },
+        "position": {
+          "top": 158,
+          "left": 375
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89249/thumbnails/41512fa078e987a5bc2d192aabfedb2a_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89249/thumbnails/8851d2a35eed727f1d15d650b55cab40_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89249/thumbnails/9338e739c37a20f99ae358f86c8c0915_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "11cef4ca-62af-4eb2-bff5-ad86b25ecb9e",
+    "name": "young lady with a phone",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89250/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "c1edaefa-f56f-450a-ba34-43affc9a57b2",
+        "name": "Phone case",
+        "size": {
+          "width": 514,
+          "height": 1056
+        },
+        "position": {
+          "top": 248,
+          "left": 496
+        }
+      },
+      {
+        "uuid": "0a8b664d-758d-49ab-b62f-156f139faada",
+        "name": "Background dm:ai:background",
+        "size": {
+          "width": 1500,
+          "height": 1500
+        },
+        "position": {
+          "top": 0,
+          "left": 0
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89250/thumbnails/224d5bcfacd8d671eb3df342c93b255f_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89250/thumbnails/e9f3ea42bab629b6d18f5305c015d2cb_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89250/thumbnails/c87872e96f692488e174a1962dce3379_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "a88a671c-692a-492c-b2e8-0683fdce6359",
+    "name": "stone next to a phone",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89251/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "35810cf2-d54b-4dfb-b9f9-4baaf4b6f5e2",
+        "name": "Phone case",
+        "size": {
+          "width": 1142,
+          "height": 1146
+        },
+        "position": {
+          "top": 197,
+          "left": 87
+        }
+      },
+      {
+        "uuid": "8db1ce34-149f-4a58-8165-7f06ffb9b705",
+        "name": "Background dm:ai:background",
+        "size": {
+          "width": 1500,
+          "height": 1500
+        },
+        "position": {
+          "top": 0,
+          "left": 0
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89251/thumbnails/c71719e0a3183e390c0835e02ae29b21_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89251/thumbnails/a65e71382ef023120fed7eafc1f526ea_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89251/thumbnails/7580bd302f5627172f151fef211f4d8a_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "b5519d69-b0e7-4b85-98b9-93b28a628301",
+    "name": "phone in a bedroom",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89252/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "93a9ee69-2c6c-40ed-b999-67551064d299",
+        "name": "Phone case",
+        "size": {
+          "width": 249,
+          "height": 490
+        },
+        "position": {
+          "top": 448,
+          "left": 522
+        }
+      },
+      {
+        "uuid": "a557aa92-2fd1-49b2-b297-edacf1aa3cbe",
+        "name": "Background dm:ai:background",
+        "size": {
+          "width": 1500,
+          "height": 1500
+        },
+        "position": {
+          "top": 0,
+          "left": 0
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89252/thumbnails/b3d7914da944c33c6e0a484b8cc8791e_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89252/thumbnails/7342d310ff3a69efd3b19ef02234a1d6_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89252/thumbnails/e9dc3fd008435f72ee3e7426c91bff6b_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "175af254-a090-440f-a758-ecb638c6fc21",
+    "name": "weekend slumber",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89253/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "edc71285-4896-4904-a92a-579b1d250c99",
+        "name": "Blanket",
+        "size": {
+          "width": 2855,
+          "height": 2153
+        },
+        "position": {
+          "top": 369,
+          "left": -460
+        }
+      },
+      {
+        "uuid": "242f2991-c052-4671-ad10-6ba441fbab66",
+        "name": "Background dm:ai:background",
+        "size": {
+          "width": 1500,
+          "height": 1500
+        },
+        "position": {
+          "top": 0,
+          "left": 0
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89253/thumbnails/ef149e4959dd3dfdccc59ecefdae1d84_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89253/thumbnails/afe3b2b92c0124b2448141c1d9f8a05b_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89253/thumbnails/32587e1e6e2a10987e59a3cb637437f2_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "87d63281-4370-435f-a654-4f6b768ebd34",
+    "name": "teen holding a blanket-Recovered",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89254/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "4c8ba810-bd7d-4569-93bf-fdd478e03615",
+        "name": "Blanket",
+        "size": {
+          "width": 502,
+          "height": 444
+        },
+        "position": {
+          "top": 118,
+          "left": -105
+        }
+      },
+      {
+        "uuid": "03434358-7f63-4742-a524-6a3885fe3ec8",
+        "name": "Background dm:ai:background",
+        "size": {
+          "width": 1500,
+          "height": 1170
+        },
+        "position": {
+          "top": 0,
+          "left": 0
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89254/thumbnails/e7da744dbe9223af4cda6598ab6bd805_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89254/thumbnails/d7417e9f11c77bc14ecc095e57a9a955_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89254/thumbnails/e34394dc2fbf6d8509c56dd507ec3566_240.jpg"
+      }
+    ]
+  },
+  {
+    "uuid": "d061597a-ea9a-442a-87a8-afa4faffdff9",
+    "name": "lady with a blanket",
+    "thumbnail": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89255/thumbnail.webp",
+    "smart_objects": [
+      {
+        "uuid": "c8a417fe-7cb4-4612-8aa5-9523064e8701",
+        "name": "Blanket",
+        "size": {
+          "width": 1142,
+          "height": 1075
+        },
+        "position": {
+          "top": 132,
+          "left": 82
+        }
+      },
+      {
+        "uuid": "6133656e-3097-43e9-8cf4-fb086acb7adf",
+        "name": "Background dm:ai:background",
+        "size": {
+          "width": 1500,
+          "height": 1000
+        },
+        "position": {
+          "top": 0,
+          "left": 0
+        }
+      }
+    ],
+    "text_layers": [],
+    "collections": [],
+    "thumbnails": [
+      {
+        "width": 720,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89255/thumbnails/ee8ca410313a9de450c190a4747ff1cd_720.jpg"
+      },
+      {
+        "width": 480,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89255/thumbnails/072d147031e6eaab0ad0d8fc9287ff98_480.jpg"
+      },
+      {
+        "width": 240,
+        "url": "https://app-dynamicmockups-production.s3.eu-central-1.amazonaws.com/mockup/89255/thumbnails/10c6a9db04bbc792e848f431d9bf5e3c_240.jpg"
+      }
+    ]
+  }
+]
